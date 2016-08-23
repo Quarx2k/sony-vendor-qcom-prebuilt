@@ -26,9 +26,9 @@ PRODUCT_PACKAGES += \
 	sensord \
 	ta_qmi_service \
 	tad_static \
+	gatekeeper.msm8916 \
 	libQSEEComAPI \
 	libadsprpc \
-	libbtnv \
 	libconfigdb \
 	libdiag \
 	libdrmfs \
